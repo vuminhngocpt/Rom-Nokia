@@ -8,7 +8,7 @@ Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập t
 
 
 
-### Cần Hỗ Trợ Vui Lòng Email : vuminhnhocpt@gmail.com tôi sẽ trả lời ~ 15 ngày do ít thời gian 
+### Cần Hỗ Trợ Vui Lòng Email : vuminhnhocpt@gmail.com tôi sẽ trả lời ~ 15 ngày do ít thời gian , đừng phá trang này nhé , cảm ơn Github đã chứa chấp tôi
 
 
 
