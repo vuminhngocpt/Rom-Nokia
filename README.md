@@ -3,4 +3,4 @@ Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập t
 nếu bị lỗi hãy báo cho tôi 
 
 © Vũ Minh Ngoc 2024 
-[Github](https://www.mediafire.com/folder/pzuviltbxeiuu/Rom_nokia)
+[Bấm Vào Đây Để Tải](https://www.mediafire.com/folder/pzuviltbxeiuu/Rom_nokia)
