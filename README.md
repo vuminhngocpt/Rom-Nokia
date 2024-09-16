@@ -1,8 +1,11 @@
-Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập tài khoản mới có thể tải được 
+Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập tài khoản mới có thể tải được , một số dòng máy tôi có tệp nhưng vì dung lượng nên tôi không tải lên tôi đang lưu ở ổ cứng khi cần tôi sẽ lấy ra , một số máy sẽ cần box mới cài đặt được , usb nokia sẽ dễ cài hơn nhưng lưu ý không phải bản rom nào cũng hỗ trợ tiếng việt , lời khuyên năm 2024 bạn nên chọn các dòng E63 và E72 , lưu ý chọn đúng RM-XXX nhé không sẽ bị màn đen đấy bấm *#0000# nó sẽ hiển thị hoặc ở mặt lưng cũng có 
+
 
 
 
 [Bấm Vào Đây Để Tải](https://www.mediafire.com/folder/pzuviltbxeiuu/Rom_nokia)
+
+
 
 
 ### Cần Hỗ Trợ Vui Lòng Email : vuminhnhocpt@gmail.com tôi sẽ trả lời ~ 15 ngày do ít thời gian 
@@ -10,4 +13,8 @@ Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập t
 
 
 
-      2024 © Vu Minh Ngoc 
+   
+      
+      
+      
+          2024 © Vu Minh Ngoc 
