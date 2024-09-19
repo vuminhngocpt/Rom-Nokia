@@ -3,9 +3,9 @@ Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập t
 
 
 
-[Bấm Vào Đây Để Tải](https://www.mediafire.com/folder/pzuviltbxeiuu/Rom_nokia)
+[Bấm Vào Đây Để Tải Ít Cập Nhật](https://www.mediafire.com/folder/pzuviltbxeiuu/Rom_nokia)
 
-[Bấm Vào Đây Để Tải Link Đầy Đủ ](https://terabox.link/s/1oqn1aTz0SfzYb09y81K0ow)
+[Bấm Vào Đây Để Tải Cập Nhật Thường Xuyên](https://terabox.link/s/1oqn1aTz0SfzYb09y81K0ow)
 
 ### Cần Hỗ Trợ Vui Lòng Email : vuminhnhocpt@gmail.com tôi sẽ trả lời ~ 15 ngày do ít thời gian , đừng phá trang này nhé , cảm ơn Github đã chứa chấp tôi
 
