@@ -1,8 +1,7 @@
 #### Xin Chào
 Rom Nokia By Minh Ngọc 2024 (c)
 
-Frimware Cho Nokia mình đang sưu tầm thêm các bạn cần đăng nhập tài khoản mới có thể tải được , một số dòng máy tôi có tệp nhưng vì dung lượng nên tôi không tải lên tôi đang lưu ở ổ cứng khi cần tôi sẽ lấy ra , một số máy sẽ cần box mới cài đặt được , usb nokia sẽ dễ cài hơn nhưng lưu ý không phải bản rom nào cũng hỗ trợ tiếng việt , lời khuyên năm 2024 bạn nên chọn các dòng E63 và E72 , lưu ý chọn đúng RM-XXX nhé không sẽ bị màn đen đấy bấm *#0000# nó sẽ hiển thị hoặc ở mặt lưng cũng có 
-
+#####Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , xin lưu ý các bạn phải tự chịu nếu làm hỏng máy . các bạn phải có kiến thức cơ bản về phần mềm máy tính máy đang hoạt động bình thường không nên up rom làm gì . các dòng máy có cách up rom khác nhau ví dụ dòng lumia không thể up bằng phần mềm cho E72 được . các bạn phải đăng ký tài khoản mới có thể tải về các tệp ở trên xin lỗi vì sự bất tiện này ⚠️####
 
 
 
