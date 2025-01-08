@@ -1,7 +1,8 @@
-#### Xin Chào
-Rom Nokia By Minh Ngọc 2024 (c)
+#### Xin Chào> 
 
-#####Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , xin lưu ý các bạn phải tự chịu nếu làm hỏng máy . các bạn phải có kiến thức cơ bản về phần mềm máy tính máy đang hoạt động bình thường không nên up rom làm gì . các dòng máy có cách up rom khác nhau ví dụ dòng lumia không thể up bằng phần mềm cho E72 được . các bạn phải đăng ký tài khoản mới có thể tải về các tệp ở trên xin lỗi vì sự bất tiện này ⚠️####
+Rom Nokia By VMNiT © 2025 
+
+#####Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , Rom Sock
 
 
 
@@ -20,4 +21,4 @@ Rom Nokia By Minh Ngọc 2024 (c)
       
       
       
-          2024 © Vu Minh Ngoc 
+          2025 © Vu Minh Ngoc 
