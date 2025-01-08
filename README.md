@@ -10,7 +10,9 @@
 
 🧩 [Công Cụ Cần Thiết Để Cài ROM](https://terabox.link/s/1O7zkpydinKov69Q1xOcNOw)
 
-### Các Bản Rom Cho Các Dòng Máy Phổ Biến 
+### Các Bản Rom Cho Các Dòng Máy Phổ Biến
+
+[💽 Tải Về Cho Nokia E63](https://www.mediafire.com/folder/zp8locs5xuw82/Nokia_E63)
 
 [💽 Tải Về Cho Nokia E72](https://www.mediafire.com/folder/h8cmzh5h1ok5d/Nokia_E72)
 
