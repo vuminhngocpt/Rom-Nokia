@@ -13,6 +13,7 @@
 ### Các Bản Rom Cho Các Dòng Máy Phổ Biến 
 
 [💽 Tải Về Cho Nokia E72](https://www.mediafire.com/folder/h8cmzh5h1ok5d/Nokia_E72)
+
 [💽 Tải Về Cho Nokia 808](https://www.mediafire.com/folder/qafcyoy6z83ix/Nokia_808)
 
 ### Cần Hỗ Trợ Vui Lòng Email : vuminhnhocpt@gmail.com tôi sẽ trả lời ~ 15 ngày do ít thời gian , đừng phá trang này nhé , cảm ơn Github đã chứa chấp tôi
