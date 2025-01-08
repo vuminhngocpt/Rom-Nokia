@@ -2,8 +2,7 @@
 
 © Lưu Trữ Bởi Minh Ngọc
 
-#####Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , Lưu ý dùng Windows 7 hoặc Windows XP úp sẽ là tốt nhất , một số mẫu máy dùng Windows 10/11 Up sẽ bị lỗi 
-
+##### ⚠️ Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , Lưu ý dùng Windows 7 hoặc Windows XP úp sẽ là tốt nhất , một số mẫu máy dùng Windows 10/11 Up sẽ bị lỗi . Tôi vẫn đang cập nhật thêm các mẫu máy ....
 
 🧩 [Link Dự Phòng](https://www.mediafire.com/folder/pzuviltbxeiuu/Rom_nokia)
 
