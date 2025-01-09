@@ -1,10 +1,10 @@
 #### Xin Chào> 
 
-© Lưu Trữ Bởi Minh Ngọc
+© Lưu Trữ Bởi Minh Ngọc | Cập nhật 09/01/2025
 
 ###          Lưu Ý 
 
-##### ⚠️ Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , Lưu ý dùng Windows 7 hoặc Windows XP úp sẽ là tốt nhất , một số mẫu máy dùng Windows 10/11 Up sẽ bị lỗi . Dùng tài khoản TẻaBox để có thể tải được các tệp về .Máy không hỗ trợ Usb cần phải có Box nạp mới chạy được .Chọn đúng RM của dòng máy . Tôi vẫn đang cập nhật thêm các mẫu máy ....
+   - ⚠️ Frimware Cho Nokia các dòng máy các bạn có thể tải ở đây , Lưu ý dùng Windows 7 hoặc Windows XP úp sẽ là tốt nhất , một số mẫu máy dùng Windows 10/11 Up sẽ bị lỗi . Dùng tài khoản TẻaBox để có thể tải được các tệp về .Máy không hỗ trợ Usb cần phải có Box nạp mới chạy được .Chọn đúng RM của dòng máy . Tôi vẫn đang cập nhật thêm các mẫu máy ....
 
 ###          Tải Về
    - các bạn bấm vô link sẽ dẫn đến trang tải về , lưu ý chọn đúng RM của dòng máy nhé
