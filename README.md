@@ -1,6 +1,9 @@
 #### Xin Chào> 
 
 © Lưu Trữ Bởi Minh Ngọc | Cập nhật 09/01/2025
+Hãy Hỗ Trợ Tôi Bằng Cách Chuyển Tiền Ủng Hộ Qua Tài Khoản MBbank 
+       0961900904 
+tên chủ tk Vu Minh Ngoc
 
 ###          Lưu Ý 
 
