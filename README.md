@@ -1,6 +1,6 @@
 #### Xin Chào> 
 
-© Lưu Trữ Bởi Minh Ngọc | Cập nhật 09/01/2025
+Lưu Trữ Bởi Minh Ngọc | Cập nhật 09/01/2025
 
 Hãy Hỗ Trợ Tôi Bằng Cách Chuyển Tiền Ủng Hộ Qua Tài Khoản
 
